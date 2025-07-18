@@ -156,3 +156,6 @@ test('form shows validation error when submitted empty', () => {
   expect(screen.getByText(/name is required/i)).toBeInTheDocument();
 });
 
+git add .
+git commit -m "Capstone project final submission"
+git push origin main
